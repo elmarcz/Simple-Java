@@ -14,6 +14,7 @@ Java is an object-oriented language, independent of the hardware platform where 
 - [Loops](https://github.com/elmarcz/Simple-Java/tree/master/java/Loops)
 - [Functions](https://github.com/elmarcz/Simple-Java/tree/master/java/Functions)
 - [Arrays](https://github.com/elmarcz/Simple-Java/tree/master/java/Arrays)
+- [Multiple Windows](https://github.com/elmarcz/Simple-Java/tree/master/java/MultipleWindows)
 
 ### 👨‍💻 Stay in touch
 
